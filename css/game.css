@@ -1,0 +1,11 @@
+.background    { background-image: url("http://3.bp.blogspot.com/-rbw-Hxft9XM/VVk1cgkyjkI/AAAAAAAAI3E/I6iT93rjfQg/s800/pastel-rainbow-backgrounds-wallpaper-pastel-rainbow-backgrounds.jpg")};
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: black; }
+.wall          { background: white;   }
+.floater { background: #B5ABBC; }
+
+.game {
+  position: relative;
+}
